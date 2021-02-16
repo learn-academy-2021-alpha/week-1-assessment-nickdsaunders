@@ -73,9 +73,9 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 Research and define the following terms to the best of your ability.
 
-- Jest
-- Test Driven Development
-- Classes
-- React
-- React State
-- CRUD
+- Jest - test runner in JavaScript, maintained by Facebook
+- Test Driven Development - testing software before its written
+- Classes - blueprint for objects, contains data and methods
+- React - JavaScript library for creating UI
+- React State - built in object for React
+- CRUD - Create, Read, Update, Delete
